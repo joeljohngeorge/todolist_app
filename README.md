@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+A flutter app to add, view and delete tasks
 
 ## Getting Started
 
